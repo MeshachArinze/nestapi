@@ -9,6 +9,6 @@ export class AuthService {
   }
 
   signup() {
-    return { msg: 'I a sign up '};
+    return { msg: 'I am sign up '};
   }
 }
